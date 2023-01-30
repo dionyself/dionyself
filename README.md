@@ -4,9 +4,9 @@ Welcome to my profile.
 
 Enjoy our free and opensource portafolio:
 
-RIX detector - Metal Detector Circuit
-
-<a href="https://github.com/dionyself/rix-detector"><img src="https://raw.githubusercontent.com/dionyself/rix-detector/master/images/rix_kicad_view.png" alt="drawing" width="200"/></a>
+| RIX detector - Metal Detector Circuit | GoLang CMS - Content management
+| ------------------------------------- | -------------------------------- |
+| <a href="https://github.com/dionyself/rix-detector"><img src="https://raw.githubusercontent.com/dionyself/rix-detector/master/images/rix_kicad_view.png" alt="drawing" width="200"/></a> | <a href="https://github.com/dionyself/golang-cms"><img src="https://raw.githubusercontent.com/dionyself/golang-cms/362c18694265ffe4a9b24c6c0287ab1fab871352/static/img/article_cms.png" alt="drawing" width="200"/></a> |
 
 - 🔭 I’m currently working on Sofware & Hardware development
 - 🌱 I’m currently learning "Kubernetes, FPGA & AI"

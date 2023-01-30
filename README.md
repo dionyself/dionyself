@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for to my profile; You will find Open Source Hardware and Free Software here.
+Thanks for visiting my profile; You will find Open Source Hardware and Free Software here.
 
 Enjoy our free and opensource portafolio:
 

@@ -29,3 +29,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### More projects ...
+
+|Category|Name|Level|Type|Development|Demo|
+|--------|----|-----|----|-----------|----|
+|Electronics||small|Open Source|In progress||
+|MCU||||||
+|FPGA||||||
+|VLSI||||||
+|AI||||||
+|Quantum||||||
+|BIG Data||||||

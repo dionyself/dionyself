@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to "Diony's Lab" 👋
 
 Thanks for visiting my profile; You will find Open Source Hardware and Free Software here.
 
@@ -15,29 +15,14 @@ Enjoy our free and opensource portafolio:
 - 🤔 I’m looking for help with "Hardware Security"
 - 📫 How to reach me: [On Linkedin](https://www.linkedin.com/in/dionyself/)
 
-<!--
-**dionyself/dionyself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### More projects ...
 
-|Category|Name|Level|Type|Development|Demo|
-|--------|----|-----|----|-----------|----|
-|Electronics||small|Open Source|In progress||
-|MCU||||||
-|FPGA||||||
-|VLSI||||||
-|AI||||||
-|Quantum||||||
-|BIG Data||||||
+|Category|Name|Size |Type|Development|Demo|State|
+|--------|----|-----|----|-----------|----|-----|
+|Electronics||Small|Open Source|In progress||Experimental|
+|MCU|||||||
+|FPGA|||||||
+|VLSI|||||||
+|AI|||||||
+|Quantum|||||||
+|BIG Data|||||||

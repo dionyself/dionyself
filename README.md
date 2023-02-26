@@ -20,6 +20,7 @@ Enjoy our free and opensource portafolio:
 |Category|Name|Size |Type|Development|Demo|State|Last update|
 |--------|----|-----|----|-----------|----|-----|-----------|
 |Electronics||Small|Open Source|In progress||Experimental||
+|Software||||||||
 |MCU||||||||
 |FPGA||||||||
 |VLSI||||||||

@@ -17,12 +17,12 @@ Enjoy our free and opensource portafolio:
 
 ### More projects ...
 
-|Category|Name|Size |Type|Development|Demo|State|
-|--------|----|-----|----|-----------|----|-----|
-|Electronics||Small|Open Source|In progress||Experimental|
-|MCU|||||||
-|FPGA|||||||
-|VLSI|||||||
-|AI|||||||
-|Quantum|||||||
-|BIG Data|||||||
+|Category|Name|Size |Type|Development|Demo|State|Last update|
+|--------|----|-----|----|-----------|----|-----|-----------|
+|Electronics||Small|Open Source|In progress||Experimental||
+|MCU||||||||
+|FPGA||||||||
+|VLSI||||||||
+|AI||||||||
+|Quantum||||||||
+|BIG Data||||||||
